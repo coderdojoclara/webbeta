@@ -22,6 +22,46 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
+# League Gothic @font-face
+--------------------------------------------------------------*/
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('./fonts/league-gothic/LeagueGothic-Regular.woff2') format('woff2'),
+        url('./fonts/league-gothic/LeagueGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('./fonts/league-gothic/LeagueGothic-Regular.woff2') format('woff2'),
+        url('./fonts/league-gothic/LeagueGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('./fonts/league-gothic/LeagueGothic-Regular.woff2') format('woff2'),
+        url('./fonts/league-gothic/LeagueGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('./fonts/league-gothic/LeagueGothic-Regular.woff2') format('woff2'),
+        url('./fonts/league-gothic/LeagueGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
